@@ -1,2 +1,2 @@
-These codes can calculating some Particle physics and Newton physics problem.
+This package can solve equations about some Particle physics and Newton physics.
 
